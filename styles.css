@@ -1,0 +1,43 @@
+body {
+
+    margin: 0 auto;
+    background-color: white;
+  }
+.food-image > img{
+    align-items: center;
+    width: 300px;
+    height: 250px;
+    gap: 100px;
+    display: inline-block;
+    margin: 30px;
+    border-radius: 10px;
+
+
+
+}
+
+ul > li{
+    display: inline-block;
+    margin-right: 200px;
+    align-items: center;
+    text-decoration-color: antiquewhite;
+}
+.about-food{
+    background-color: white;
+    border-radius: 10px;
+
+}
+.about-food > p{
+    font-size: larger;
+    font-style: italic;
+    color: black;
+    padding: 30px;
+    background-color: antiquewhite;
+}
+/*the above code is  the main section css code for index.html*/
+
+.kitfo{
+    width: 300px;
+    height: 250px;
+
+}
